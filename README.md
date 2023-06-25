@@ -1,4 +1,4 @@
-# kotlin-poo
+# kotlin-oo
 ## Kotlin: orientação a objetos
 ### Conteúdo:
 - [X] Controle de fluxo e o paradigma procedural
